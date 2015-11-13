@@ -1,0 +1,8 @@
+c:\users\sakerb01\documents\visual studio 2012\Projects\Program 0\Program 0\bin\Debug\Program 0.exe.config
+c:\users\sakerb01\documents\visual studio 2012\Projects\Program 0\Program 0\obj\Debug\Program 0.csprojResolveAssemblyReference.cache
+C:\Users\sakerb01\Documents\Program 0\Program 0\bin\Debug\Program 0.exe.config
+C:\Users\sakerb01\Documents\Program 0\Program 0\obj\Debug\Program 0.csprojResolveAssemblyReference.cache
+C:\Users\sakerb01\Documents\Program 0\Program 0\bin\Debug\Program 0.exe
+C:\Users\sakerb01\Documents\Program 0\Program 0\bin\Debug\Program 0.pdb
+C:\Users\sakerb01\Documents\Program 0\Program 0\obj\Debug\Program 0.exe
+C:\Users\sakerb01\Documents\Program 0\Program 0\obj\Debug\Program 0.pdb
